@@ -1,0 +1,329 @@
+text,intent
+
+I want to enroll in an online course,Education
+Which course is best for my career,Education
+What are the best courses after graduation,Education
+I want to pursue higher education,Education
+How can I apply for a scholarship,Education
+Tell me about certification programs,Education
+I want to study data science,Education
+What is the syllabus for this course,Education
+How long does this degree program take,Education
+What are the eligibility criteria for admission,Education
+I want to prepare for competitive exams,Education
+Which university is best for MBA,Education
+I want to study abroad,Education
+Tell me about distance education programs,Education
+What skills are required for software engineering,Education
+I want to improve my academic performance,Education
+Which subjects are covered in this course,Education
+What are professional certification options,Education
+Is this course suitable for beginners,Education
+I want guidance for my studies,Education
+Tell me about diploma courses,Education
+What is the course fee structure,Education
+How to choose the right career path,Education
+I want to learn artificial intelligence concepts,Education
+Which courses help in career growth,Education
+I want to join a training institute,Education
+What is the duration of this certification,Education
+How can I upgrade my qualifications,Education
+Tell me about online degree programs,Education
+What exams are required for this course,Education
+I want to prepare for government exams,Education
+Can you suggest good study resources,Education
+I am confused about course selection,Education
+What is the admission process,Education
+Is there any free learning platform,Education
+I want to study machine learning,Education
+What are beginner friendly courses,Education
+Tell me about academic counseling,Education
+Which subjects are important for analytics,Education
+How to plan my education roadmap,Education
+
+
+I want to open a bank account,Finance
+How to apply for a personal loan,Finance
+What is the interest rate on loans,Finance
+I want to check my bank balance,Finance
+Tell me about home loan options,Finance
+How to calculate EMI for loan,Finance
+I want to apply for a credit card,Finance
+What are credit card charges,Finance
+Tell me about income tax filing,Finance
+How to file income tax return,Finance
+I need help with tax deduction,Finance
+What are tax saving investment options,Finance
+How to invest in mutual funds,Finance
+Tell me about stock market investment,Finance
+I want to invest money safely,Finance
+What is fixed deposit interest rate,Finance
+How to plan personal finances,Finance
+I need help with budgeting money,Finance
+Tell me about retirement planning,Finance
+How to save money every month,Finance
+I want to transfer money online,Finance
+What is net banking,Finance
+Tell me about digital payment methods,Finance
+How to track my bank transactions,Finance
+What documents are needed for KYC,Finance
+I want information about insurance policies,Finance
+How to choose health insurance plan,Finance
+Tell me about life insurance benefits,Finance
+How to improve credit score,Finance
+What is compound interest,Finance
+How to manage debt properly,Finance
+Tell me about business loan options,Finance
+How to apply for education loan,Finance
+What are bank service charges,Finance
+How to avoid unnecessary bank fees,Finance
+Tell me about financial planning strategies,Finance
+I want advice on long term investments,Finance
+How to manage monthly expenses,Finance
+What is savings account,Finance
+
+
+I am not feeling well,Healthcare
+I have fever and headache,Healthcare
+Can you suggest a good doctor,Healthcare
+What are the symptoms of diabetes,Healthcare
+How to book a medical appointment,Healthcare
+I want to consult a specialist,Healthcare
+Tell me about health insurance,Healthcare
+What should I do for stomach pain,Healthcare
+How to manage blood pressure,Healthcare
+I need advice on healthy eating,Healthcare
+What are common cold remedies,Healthcare
+How to improve immunity,Healthcare
+I feel stressed and anxious,Healthcare
+What is treatment for back pain,Healthcare
+I need mental health support,Healthcare
+Tell me about vaccinations,Healthcare
+How often should I get health checkups,Healthcare
+I want to book a lab test,Healthcare
+What is the best diet for weight loss,Healthcare
+How to control sugar levels,Healthcare
+What are side effects of this medicine,Healthcare
+How to find a nearby clinic,Healthcare
+I need emergency medical help,Healthcare
+Tell me about wellness programs,Healthcare
+How to manage chronic illness,Healthcare
+I want advice on sleep problems,Healthcare
+What is recovery time after surgery,Healthcare
+How to stay physically fit,Healthcare
+Tell me about COVID symptoms,Healthcare
+How to take care of elderly health,Healthcare
+I need a second medical opinion,Healthcare
+What are healthy lifestyle habits,Healthcare
+How to prevent common diseases,Healthcare
+Tell me about medical reports,Healthcare
+How to manage anxiety naturally,Healthcare
+What exercises are good for health,Healthcare
+I want fitness routine advice,Healthcare
+How to maintain heart health,Healthcare
+Tell me about nutrition plans,Healthcare
+
+
+My computer is running slow,Technology
+How to fix a software error,Technology
+I am facing a system crash issue,Technology
+My application is not responding,Technology
+How to troubleshoot network problems,Technology
+I need help with software installation,Technology
+How to fix internet connection issues,Technology
+My laptop is overheating,Technology
+How to recover lost data,Technology
+I need help with email configuration,Technology
+How to secure my computer from malware,Technology
+My printer is not working,Technology
+How to configure a server,Technology
+I am facing login issues on my system,Technology
+How to fix a mobile phone problem,Technology
+My device storage is full,Technology
+How to update my operating system,Technology
+I need help with cloud storage,Technology
+How to backup important files,Technology
+My software installation failed,Technology
+How to resolve hardware issues,Technology
+I am getting frequent system errors,Technology
+How to optimize system performance,Technology
+I need technical support for my device,Technology
+How to fix a broken application,Technology
+My computer shows blue screen error,Technology
+How to troubleshoot WiFi problems,Technology
+I need help with system configuration,Technology
+How to fix compatibility issues,Technology
+My phone battery drains quickly,Technology
+How to protect data online,Technology
+I need help with device setup,Technology
+How to resolve software conflicts,Technology
+My laptop is not booting,Technology
+How to fix corrupted files,Technology
+I need assistance with system updates,Technology
+How to manage storage issues,Technology
+My system performance is poor,Technology
+How to fix application bugs,Technology
+
+
+I want to book a flight,Travel
+Can you help me plan a trip,Travel
+I need hotel recommendations,Travel
+What are the best tourist places,Travel
+I want to travel abroad,Travel
+How to apply for a visa,Travel
+Tell me about travel packages,Travel
+I need train ticket information,Travel
+How to book a holiday package,Travel
+What is the best time to visit this place,Travel
+I want to rent a car,Travel
+How to book bus tickets online,Travel
+Tell me about travel insurance,Travel
+I need help with travel itinerary,Travel
+How to manage travel expenses,Travel
+I want to go on a family vacation,Travel
+Tell me about popular destinations,Travel
+How to plan a solo trip,Travel
+What documents are required for travel,Travel
+I want to check flight status,Travel
+How to get travel discounts,Travel
+Tell me about cruise travel,Travel
+I need help with hotel booking,Travel
+What are travel safety tips,Travel
+I want to explore new destinations,Travel
+Tell me about international travel rules,Travel
+How to plan weekend trips,Travel
+I need help with flight cancellation,Travel
+Tell me about luxury travel options,Travel
+What are honeymoon destinations,Travel
+How to travel on a budget,Travel
+Tell me about backpacking travel,Travel
+I want local sightseeing options,Travel
+How to manage travel bookings,Travel
+Tell me about adventure travel,Travel
+What are must visit places,Travel
+I want guidance on travel planning,Travel
+Tell me about road trips,Travel
+I need help with trip rescheduling,Travel
+
+
+I want to buy new clothes,Shopping
+Can you suggest online shopping sites,Shopping
+I need to purchase groceries,Shopping
+What are the best deals available,Shopping
+I want to buy a smartphone,Shopping
+How to track my order,Shopping
+Tell me about product discounts,Shopping
+What is the return policy,Shopping
+I want to compare product prices,Shopping
+How to apply discount coupons,Shopping
+I want to buy electronics online,Shopping
+How to check product reviews,Shopping
+Tell me about shopping offers,Shopping
+I want to buy home appliances,Shopping
+How to cancel my order,Shopping
+Tell me about cashback offers,Shopping
+I need help with product selection,Shopping
+What are the best brands available,Shopping
+I want to shop during sale,Shopping
+How to find affordable products,Shopping
+Tell me about online marketplaces,Shopping
+What is the delivery time,Shopping
+I want to buy gifts online,Shopping
+Tell me about product warranty,Shopping
+I need help with exchange process,Shopping
+What are trending products,Shopping
+I want to buy furniture,Shopping
+How to place an online order,Shopping
+Tell me about shopping apps,Shopping
+I need help with order return,Shopping
+What are popular shopping categories,Shopping
+I want to buy accessories,Shopping
+How to manage online purchases,Shopping
+Tell me about festive offers,Shopping
+I need help with shopping cart,Shopping
+What payment options are available,Shopping
+How to check order status,Shopping
+Tell me about discount sales,Shopping
+I want to buy fashion items,Shopping
+
+
+I want to watch a movie tonight,Entertainment
+Suggest some good movies to watch,Entertainment
+What are the latest movies released,Entertainment
+Tell me about trending web series,Entertainment
+I am looking for popular TV shows,Entertainment
+Which movies are popular right now,Entertainment
+I want to stream movies online,Entertainment
+What are the best movies on OTT platforms,Entertainment
+Tell me about new Netflix series,Entertainment
+Suggest some comedy movies,Entertainment
+I want to listen to music,Entertainment
+What are the top songs this week,Entertainment
+Tell me about trending music albums,Entertainment
+I am looking for new songs to listen to,Entertainment
+Suggest good playlists for entertainment,Entertainment
+I want to play video games,Entertainment
+What are the most popular video games,Entertainment
+Tell me about trending mobile games,Entertainment
+Suggest some fun games to play,Entertainment
+I want to watch live sports events,Entertainment
+Tell me about upcoming sports matches,Entertainment
+I want to book movie tickets online,Entertainment
+How to book tickets for a movie show,Entertainment
+Tell me about upcoming movies,Entertainment
+What movies are releasing this week,Entertainment
+I want to attend a concert,Entertainment
+Tell me about live music events,Entertainment
+What entertainment events are happening nearby,Entertainment
+Suggest some entertainment options for weekend,Entertainment
+I want to watch comedy shows,Entertainment
+Tell me about stand up comedy shows,Entertainment
+Suggest family friendly movies,Entertainment
+I want to watch cartoons and animated movies,Entertainment
+Tell me about popular YouTube entertainment channels,Entertainment
+What are trending entertainment videos,Entertainment
+I want to watch documentaries,Entertainment
+Tell me about award shows,Entertainment
+What are popular OTT platforms,Entertainment
+Suggest some fun entertainment content,Entertainment
+
+
+Hello,General
+Hi,General
+Good morning,General
+Good evening,General
+How are you,General
+Can you help me,General
+I need help,General
+Please help me,General
+I have a question,General
+Can you answer something,General
+I need some information,General
+Please provide details,General
+Can you explain this,General
+I am confused,General
+I need clarification,General
+Can you guide me,General
+I need assistance right now,General
+Please assist me,General
+I want to know something,General
+Tell me more details,General
+What should I do next,General
+Can you respond,General
+I need support,General
+Please reply,General
+I have an issue,General
+Can you help me with this,General
+I am not sure about this,General
+Explain this clearly,General
+Can you help,General
+I need an answer,General
+Please explain,General
+I want more information,General
+Can you tell me more,General
+I need guidance,General
+What does this mean,General
+Can you clarify this,General
+I need help understanding this,General
+Please advise,General
+Let me know more,General
